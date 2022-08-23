@@ -9,7 +9,11 @@
 
 ## Labs
 
-- [x] MapReduce **Data:** 2022.08.12 **Time:** 10hr
-- [ ] Raft
+- [x] MapReduce **Date:** 2022.08.12 **Time:** 10hr
+- Raft
+  - [x] A: Leader Election **Date:** 2022.08.23 **Time:** 12hr
+  - [ ] B: Log
+  - [ ] C: Persistence
+  - [ ] D: Log Compaction
 - [ ] KV Raft
 - [ ] Sharded KV
