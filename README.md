@@ -12,7 +12,7 @@
 - [x] MapReduce **Date:** 2022.08.12 **Time:** 10hr
 - Raft
   - [x] A: Leader Election **Date:** 2022.08.23 **Time:** 12hr
-  - [ ] B: Log
+  - [x] B: Log **Date:** 2022.08.28 **Time:** 20hr
   - [ ] C: Persistence
   - [ ] D: Log Compaction
 - [ ] KV Raft
