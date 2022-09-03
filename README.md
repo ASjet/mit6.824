@@ -13,7 +13,7 @@
 - Raft
   - [x] A: Leader Election **Date:** 2022.08.23 **Time:** 12hr
   - [x] B: Log **Date:** 2022.08.28 **Time:** 20hr
-  - [ ] C: Persistence
+  - [x] C: Persistence **Date:** 2022.09.03 **Time:** 1hr
   - [ ] D: Log Compaction
 - [ ] KV Raft
 - [ ] Sharded KV
